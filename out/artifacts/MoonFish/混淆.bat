@@ -1,0 +1,1 @@
+java -jar classfinal-fatjar-1.2.1.jar -file MoonFish.jar -packages com.moonfish -pwd QMAIT113001a -Y

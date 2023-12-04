@@ -1,0 +1,35 @@
+name: MoonFish
+version: Beta1.6
+main: com.moonfish.MoonFish
+api-version: 1.19
+
+commands:
+  ReloadMoonFish:
+    #描述这个命令
+    description: Reload MoonFishPlugin.
+    #用法
+    usage: /<command>
+    #执行此命令的人所需的权限
+    permission:
+    #没有权限的提示消息
+    permission-message: 你不能执行它.
+
+  Menu:
+    #描述这个命令
+    description: Open Menu.
+    #用法
+    usage: /<command>
+    #执行此命令的人所需的权限
+    permission:
+    #没有权限的提示消息
+    permission-message: 你不能执行它.
+
+  Clock:
+    #描述这个命令
+    description: Give a MenuClock.
+    #用法
+    usage: /<command>
+    #执行此命令的人所需的权限
+    permission:
+    #没有权限的提示消息
+    permission-message: 你不能执行它.

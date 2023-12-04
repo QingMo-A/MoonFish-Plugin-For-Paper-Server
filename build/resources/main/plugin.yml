@@ -1,0 +1,4 @@
+name: MoonFish
+version: '1.0-SNAPSHOT'
+main: com.moonfish.MoonFish
+api-version: 1.19
